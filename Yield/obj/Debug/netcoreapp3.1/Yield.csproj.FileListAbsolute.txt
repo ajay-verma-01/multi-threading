@@ -1,0 +1,12 @@
+D:\invw\demo\DataSctrutureSln\MultiThreading\Yield\bin\Debug\netcoreapp3.1\Yield.exe
+D:\invw\demo\DataSctrutureSln\MultiThreading\Yield\bin\Debug\netcoreapp3.1\Yield.deps.json
+D:\invw\demo\DataSctrutureSln\MultiThreading\Yield\bin\Debug\netcoreapp3.1\Yield.runtimeconfig.json
+D:\invw\demo\DataSctrutureSln\MultiThreading\Yield\bin\Debug\netcoreapp3.1\Yield.runtimeconfig.dev.json
+D:\invw\demo\DataSctrutureSln\MultiThreading\Yield\bin\Debug\netcoreapp3.1\Yield.dll
+D:\invw\demo\DataSctrutureSln\MultiThreading\Yield\bin\Debug\netcoreapp3.1\Yield.pdb
+D:\invw\demo\DataSctrutureSln\MultiThreading\Yield\obj\Debug\netcoreapp3.1\Yield.AssemblyInfoInputs.cache
+D:\invw\demo\DataSctrutureSln\MultiThreading\Yield\obj\Debug\netcoreapp3.1\Yield.AssemblyInfo.cs
+D:\invw\demo\DataSctrutureSln\MultiThreading\Yield\obj\Debug\netcoreapp3.1\Yield.csproj.CoreCompileInputs.cache
+D:\invw\demo\DataSctrutureSln\MultiThreading\Yield\obj\Debug\netcoreapp3.1\Yield.dll
+D:\invw\demo\DataSctrutureSln\MultiThreading\Yield\obj\Debug\netcoreapp3.1\Yield.pdb
+D:\invw\demo\DataSctrutureSln\MultiThreading\Yield\obj\Debug\netcoreapp3.1\Yield.genruntimeconfig.cache

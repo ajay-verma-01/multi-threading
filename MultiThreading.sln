@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AwaitAsync", "AwaitAsync\AwaitAsync.csproj", "{EA62B79C-A278-4991-85BE-CC7AD6CE4D39}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Volatile", "Volatile\Volatile.csproj", "{8B1EEBAF-20DD-46B5-B6C9-0D9BE3F461B9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yield", "Yield\Yield.csproj", "{6D0FFB7A-DED7-4B1A-82F3-DB9244A1606D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA62B79C-A278-4991-85BE-CC7AD6CE4D39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA62B79C-A278-4991-85BE-CC7AD6CE4D39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA62B79C-A278-4991-85BE-CC7AD6CE4D39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA62B79C-A278-4991-85BE-CC7AD6CE4D39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B1EEBAF-20DD-46B5-B6C9-0D9BE3F461B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B1EEBAF-20DD-46B5-B6C9-0D9BE3F461B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B1EEBAF-20DD-46B5-B6C9-0D9BE3F461B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B1EEBAF-20DD-46B5-B6C9-0D9BE3F461B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D0FFB7A-DED7-4B1A-82F3-DB9244A1606D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D0FFB7A-DED7-4B1A-82F3-DB9244A1606D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D0FFB7A-DED7-4B1A-82F3-DB9244A1606D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D0FFB7A-DED7-4B1A-82F3-DB9244A1606D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC9ACDAC-BDEF-4D01-95FD-E01C2EAE349B}
+	EndGlobalSection
+EndGlobal
